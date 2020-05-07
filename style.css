@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+button {
+    margin: 16px;
+}
+
+#container {
+    display: grid;
+    width: 512px;
+    margin: auto;
+}
